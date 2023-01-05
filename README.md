@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+![MasterHead](https://www.binarymetrix.com/wp-content/uploads/2022/05/web-development-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
 
