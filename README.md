@@ -14,7 +14,8 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://riyaa-1099.github.io](https://riyaa-1099.github.io)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://riyaa-1099.github.io" >Portfolio</a>
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, MongoDB, Express, DSA.**
 
@@ -25,6 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
+
+
+
 
 <a target="_blank" href="https://linkedin.com/in/riya-sharma1099" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112823546/212489016-dec18ce2-65ab-4a24-a9e0-3ecfbf02fe2f.png" alt="riya-sharma1099" height="30" width="40" /></a>
 </p>
