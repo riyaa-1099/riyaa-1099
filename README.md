@@ -15,7 +15,7 @@
 
 - 💼 See my <a href="https://drive.google.com/file/d/1MvF6cESiS9amzJ-zqxKn0MJAYQCxfPk-/view?usp=share_link" target="_blank"  download>Resume</a>
 
-- 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA.**
+- 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
 - 📫 How to reach me **riyasharma49146@gmail.com**
 
@@ -24,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
 
 
 
@@ -42,7 +41,8 @@
    <img src="https://user-images.githubusercontent.com/112823546/217021879-a991f3b1-48d5-41e4-a88e-56de705f7ccd.svg" alt="mongodb" width="50"  padding="4px"  height="50"/>  
      <img src="https://camo.githubusercontent.com/41e3c0f7f3e0760762db1aa845a72af4a0a407cb43412cc4f8890d2cfa4f1d2d/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f6d6f6e676f64625f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363432352e706e67" alt="mongodb" width="50"  padding="4px"  height="50"/> 
    <img src ="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" alt="nodejs" width="50"  padding="4px"  height="50"/> <img src="https://user-images.githubusercontent.com/112823546/212490328-78324de4-f917-40ae-ac4f-1957f6cd187e.png" alt="mongodb" width="50"  padding="4px"  height="50"/> 
-   <img style="border-radius=5px" src="https://user-images.githubusercontent.com/112823546/217025414-4370c593-c0ef-4749-a0bc-8e88f5b5144b.png" alt="mongodb" width="50"  padding="4px"  height="50"/> 
+   <img style="border-radius=5px" src="https://user-images.githubusercontent.com/112823546/220186460-639169e2-fc37-43d8-81a3-ad8f80bdfa76.png" alt="mongodb" width="85"  padding="4px"  height="60"/> 
+    <img style="border-radius=5px" src="https://user-images.githubusercontent.com/112823546/220186224-375630fa-2513-4602-b309-63b2583cb265.png" alt="mongodb" width="50"  padding="4px"  height="50"/> 
    <hr>
 <h3 align="left">Tools:</h3>
 </br>
