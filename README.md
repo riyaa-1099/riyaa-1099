@@ -7,7 +7,7 @@
 
 <h3 align="center">A dedicated and enthusiastic web developer proficient in NodeJS Backend Tech. & DSA. Passionate about implementing and launching new projects. Ability to work well in team-oriented and collaborative projects. Looking forward to work in a company to augment skills and contribute significantly to the organization.</h3>
 </br>
-<img align="right" alt="Coding" width="30%" margin:"60px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="30%" margin:"60px" src="https://camo.githubusercontent.com/26647de33fe1227a701256ff1917a9d5ea2146c4aed4e8e8f011eee17fb14f78/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66642f61372f63302f66646137633031386462396130396666306564323334393537653962323562392e676966">
 
 
 
