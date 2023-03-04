@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://riyaa-1099.github.io" target="_blank" >Portfolio</a>
 
-- 💼 See my <a href="https://drive.google.com/file/d/1MvF6cESiS9amzJ-zqxKn0MJAYQCxfPk-/view?usp=share_link" target="_blank"  download>Resume</a>
+- 💼 See my <a href="https://drive.google.com/file/d/1n5S94QT9sudf1dY3ZgIJ_HCnNK7bJPLB/view?usp=share_link" target="_blank"  download>Resume</a>
 
 - 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
